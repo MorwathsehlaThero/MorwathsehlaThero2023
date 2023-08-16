@@ -8,6 +8,18 @@
 My goal is to create seamless and responsive designs that adapt beautifully to various devices and screen sizes.
 I'm constantly staying up-to-date with the latest industry trends and best practices to deliver modern and cutting-edge solutions.
 
+- Education
+  
+  Unisa: Diploma In Information Technology: 2014- Incomplete
+  College Campus: Diploma In Graphic Design & Web Development
+  Complete- Graduated (2011)
+  
+Online Courses: FreeCodeCamp.org:
+  Responsive Web Design
+  JavaScript Algorithms and Data Structures
+  Front-end development libraries
+
+  
 - 🌱 Skills
   Languages: HTML5, CSS3, JavaScript (ES6+)
   Front-End Frameworks: Bootstrap, jQuery, CSS
