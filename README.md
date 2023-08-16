@@ -18,7 +18,6 @@ Online Courses: FreeCodeCamp.org:
   Responsive Web Design
   JavaScript Algorithms and Data Structures
   Front-end development libraries
-
   
 - 🌱 Skills
   Languages: HTML5, CSS3, JavaScript (ES6+)
