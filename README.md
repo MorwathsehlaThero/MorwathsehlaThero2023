@@ -19,7 +19,22 @@
 <h4>- 📄 Know about my experiences (https://github.com/MorwathsehlaThero2023)<h4>
 <br>
 
-<h3><strong>📄 PROJECTS📄</strong></h3><br>
+<h3><strong>📄 PROJECTS 📄</strong></h3>
+<!-- Example image URLs (replace these with your actual image URLs) -->
+
+<img src="Snowman.png" alt="Project 1 Screenshot">
+<p>Description of Project:Snowman...</p>
+
+<img src="E-Commerce website.png" alt="Project 2 Screenshot">
+<p>Description of Project 2: E-Commerce website</p>
+
+<img src="FerrisWheel.png" alt="Project 2 Screenshot">
+<p>Description of Project 3: FerrisWheel.png</p>
+
+<img src="Javascript Calculator.png" alt="Project 2 Screenshot">
+<p>Description of Project 2...</p>
+<!-- Repeat the above pattern for other projects -->
+
 
 <br><strong>Personal Portfolio 🌐<br></strong>
 <br>My Personal Portfolio project serves as a showcase of my skills, experience, and work as a front-end developer.<br> Combining HTML, CSS, and potentially JavaScript, I designed a professional and visually appealing portfolio website. HTML structured the content, CSS styling was applied to achieve a consistent design, and JavaScript might be used for interactive elements. The portfolio demonstrates my ability to create a comprehensive online presence that reflects my abilities and achievements.<br>
