@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morwathsehlathero2023" alt="morwathsehlathero2023" /></a> </p>
 
-<h4>- 🔭 I’m currently working on [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/eYbmEyG) <h4>
+<h4>- 🔭 I’m currently working on [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/jOXPjxX) <h4>
 <h4>- 🌱 I’m currently learning **Frameworks: Data Visualization with D3, JSON APIs and AJAX**<h4>
 <h4>- 🤝 I’m looking for help with [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/eYbmEyG)<h4>
 <h4>- 👨‍💻 All of my projects are available at: [https://github.com/MorwathsehlaThero2023]<h4>
