@@ -11,7 +11,6 @@
 
 <h4>- 🔭 I’m currently working on [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/jOXPjxX) <h4>
 <h4>- 🌱 I’m currently learning **Frameworks: Data Visualization with D3, JSON APIs and AJAX**<h4>
-<h4>- 🤝 I’m looking for help with [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/eYbmEyG)<h4>
 <h4>- 👨‍💻 All of my projects are available at: [https://github.com/MorwathsehlaThero2023]<h4>
 <h4>- 📝 I regularly writarticles on [https://github.com/MorwathsehlaThero2023]<h4>
 <h4>- 💬 Ask me about ** Html5, CSS3, JavaScript, React, Redux, Bootstrap, Json APIs and Ajax. ** <h4>
