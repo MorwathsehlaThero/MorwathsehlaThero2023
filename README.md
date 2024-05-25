@@ -11,11 +11,11 @@
 
 <h4>- 🔭 I’m currently working on [GDP Bar Chart]- (https://codepen.io/Mr-Tman/pen/jOXPjxX) <h4>
 <h4>- 🌱 I’m currently learning **Frameworks: Data Visualization with D3, JSON APIs and AJAX**<h4>
-<h4>- 👨‍💻 All of my projects are available at: [https://github.com/MorwathsehlaThero2023]<h4>
+<h4>- 👨‍💻 All of my projects are available at: [https://github.com/MorwathsehlaThero2024]<h4>
 <h4>- 📝 I regularly writarticles on [https://github.com/MorwathsehlaThero2023]<h4>
 <h4>- 💬 Ask me about ** Html5, CSS3, JavaScript, React, Redux, Bootstrap, Json APIs and Ajax. ** <h4>
 <h4>- 📫 How to reach me **therogd@gmail.com/ 065 596 5292**<h4>
-<h4>- 📄 Know about my experiences (https://github.com/MorwathsehlaThero2023)<h4>
+<h4>- 📄 Know about my experiences (https://github.com/MorwathsehlaThero2024)<h4>
 <br>
 
 <h3><strong>📄 PROJECTS 📄</strong></h3>
@@ -94,8 +94,8 @@ the user experience while collecting valuable information.<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morwathsehlathero2023&show_icons=true&locale=en&layout=compact" alt="morwathsehlathero2023" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morwathsehlathero2023&show_icons=true&locale=en&layout=compact" alt="morwathsehlathero2024" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morwathsehlathero2023&show_icons=true&locale=en" alt="morwathsehlathero2023" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morwathsehlathero2023&show_icons=true&locale=en" alt="morwathsehlathero2024" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morwathsehlathero2023&" alt="morwathsehlathero2023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morwathsehlathero2023&" alt="morwathsehlathero2024" /></p>
