@@ -1,7 +1,4 @@
-Here’s a refined and more visually polished version of your profile:
-
 ---
-
 <h1 align="center">Hi 👋, I'm Thero Morwathsehla</h1>
 <h3 align="center">A Passionate Front-End Developer Based in Johannesburg, South Africa</h3>
 
@@ -10,7 +7,6 @@ Here’s a refined and more visually polished version of your profile:
 </p>
 
 ---
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=morwathsehlathero2023&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -19,7 +15,6 @@ Here’s a refined and more visually polished version of your profile:
 </p>
 
 ---
-
 <h2>💼 About Me</h2>
 <ul>
   <li>🔭 I’m currently working on <a href="https://codepen.io/Mr-Tman/pen/jOXPjxX" target="_blank"><b>GDP Bar Chart</b></a></li>
@@ -32,7 +27,6 @@ Here’s a refined and more visually polished version of your profile:
 </ul>
 
 ---
-
 <h2>🌟 Featured Projects</h2>
 <p>Here are some of my favorite projects that demonstrate my skills:</p>
 
@@ -62,7 +56,6 @@ For a complete list of my projects, check out my [GitHub Portfolio](https://gith
 </p>
 
 ---
-
 <h2>🤝 Connect with Me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/thero-morwathsehla-94b4a3129/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
@@ -71,9 +64,7 @@ For a complete list of my projects, check out my [GitHub Portfolio](https://gith
 </p>
 
 ---
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morwathsehlathero2023&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morwathsehlathero2023&show_icons=true&locale=en" alt="GitHub Stats"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morwathsehlathero2023&" alt="GitHub Streak"></p>
-
 ---
